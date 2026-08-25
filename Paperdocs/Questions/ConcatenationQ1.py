@@ -8,4 +8,3 @@ combined_string = String1 + " " + String2
 print(combined_string)
 
 
-

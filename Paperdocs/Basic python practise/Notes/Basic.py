@@ -27,3 +27,32 @@ print(number)
 Number = 54
 StringNumber = str(Number)
 print ( type(StringNumber))
+
+
+# input with IF statements
+
+usernumber = float(input("Guess the number"))
+
+if usernumber == 20:
+    print("Dsadsadsads")
+print("dsasad")
+
+#input with else IF statements
+
+if usernumber == 20:
+    print("Dsadsadsads")
+else: 
+    print("you cant do this shi")
+print("you guessed it")
+
+
+# If statements with elif
+
+
+if usernumber == 20:
+    print("Dsadsadsads")
+elif usernumber == 21: 
+    print("you cant do this shi")
+else:
+    print("Elseif general syntax")
+print("you guessed it")

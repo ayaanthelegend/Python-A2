@@ -8,3 +8,4 @@ Lastname = name[1]
 
 print(Firstname)
 print(Lastname) 
+print(len(Firstname))

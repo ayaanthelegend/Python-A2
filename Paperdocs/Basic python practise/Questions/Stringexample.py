@@ -21,3 +21,5 @@ Lastname = Fullname[firstlen + 1: len(Fullname)]
 
 print(Firstname)
 print(Lastname)
+
+Fullname.split

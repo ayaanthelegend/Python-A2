@@ -14,7 +14,7 @@ for rows in range(5):
     print(Array2d[rows])
 
 # Accessing elements in loops
-d
+
 for rows in range(5):
     for col in range(4):
         Array2d[rows][col] = 1 

@@ -1,3 +1,5 @@
+#Write a program that counts the number of vowels, consonants, digits, and spaces in a given string.
+
 string = input("Please enter a string: ")
 stringlower = string.lower()
 

@@ -1,3 +1,5 @@
+### Write code that removes repeated consecutive characters from a string (e.g. "aaabccddd" → "abcd").
+
 string = input("Enter a string: ")
 
 if not string:

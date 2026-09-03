@@ -12,6 +12,7 @@ lowercase = user.lower()
 print(length)
 print("Uppercase:", uppercase)
 print("Lowercase:", lowercase)
+#test  the commit
 
 #print("Length:", len(user))
 #print("Uppercase:", user.upper())
